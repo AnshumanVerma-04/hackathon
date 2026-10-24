@@ -1,0 +1,6 @@
+{
+  "name": "Melli — Master 3D Artistry",
+  "description": "Interactive 3D landing page for Melli Motion featuring a scroll-driven honeybee and floral parallax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
